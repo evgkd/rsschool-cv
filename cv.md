@@ -12,8 +12,9 @@ I’m currently working as an engineer in the telecom field, but I’ve always b
 
 ## Skills
 
-- HTML/CSS
+- HTML/CSS/JS
 - Python
+- SQL
 - Git
 
 ## Code example
